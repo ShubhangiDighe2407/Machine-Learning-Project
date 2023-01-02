@@ -1,0 +1,6 @@
+flask
+jinja2
+numpy
+scikit-learn
+scipy
+sklearn
